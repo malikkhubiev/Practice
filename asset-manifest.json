@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Practice/static/css/main.a44ea9cf.chunk.css",
+    "main.js": "/Practice/static/js/main.18efc717.chunk.js",
+    "main.js.map": "/Practice/static/js/main.18efc717.chunk.js.map",
+    "runtime-main.js": "/Practice/static/js/runtime-main.08b47df0.js",
+    "runtime-main.js.map": "/Practice/static/js/runtime-main.08b47df0.js.map",
+    "static/js/2.608e7b7f.chunk.js": "/Practice/static/js/2.608e7b7f.chunk.js",
+    "static/js/2.608e7b7f.chunk.js.map": "/Practice/static/js/2.608e7b7f.chunk.js.map",
+    "index.html": "/Practice/index.html",
+    "static/css/main.a44ea9cf.chunk.css.map": "/Practice/static/css/main.a44ea9cf.chunk.css.map",
+    "static/js/2.608e7b7f.chunk.js.LICENSE.txt": "/Practice/static/js/2.608e7b7f.chunk.js.LICENSE.txt",
+    "static/media/brain.87fe3c8f.jpg": "/Practice/static/media/brain.87fe3c8f.jpg",
+    "static/media/Person.module.css": "/Practice/static/media/top.02c639ed.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.08b47df0.js",
+    "static/js/2.608e7b7f.chunk.js",
+    "static/css/main.a44ea9cf.chunk.css",
+    "static/js/main.18efc717.chunk.js"
+  ]
+}
